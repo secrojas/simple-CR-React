@@ -14,7 +14,7 @@ Simple y pequeña aplicación en React JS para mostrar conceptos de Create and R
 - React JS
 - Hooks
 - LocalStorage
-- Content
+- Context
 
 
 
